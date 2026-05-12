@@ -1,0 +1,6 @@
+priority,workstream,description,owner
+P0,Resolve orphans,Add 1 pillar + 2 sibling + 1 cross-cluster links to orphan URLs,SEO + Content Lead
+P1,Pillar-to-cluster links,Ensure every cluster article links back to its pillar and pillar links downward,SEO + Editor
+P2,Sibling mesh,Add 2-4 lateral links between same-intent posts,Editors
+P3,Cross-cluster bridges,Add one contextual bridge to adjacent ecosystem,Editors
+P4,QA with Rank Math,"Validate internal link suggestions, broken links, and orphan status",SEO QA
