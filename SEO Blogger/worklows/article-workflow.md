@@ -41,3 +41,6 @@
 - Featured image
 - Slug check
 - Mobile check
+
+## Final QA
+Always validation generated articles using : qa/article-qa-checklist.md

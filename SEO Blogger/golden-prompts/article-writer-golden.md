@@ -24,3 +24,5 @@ Write a long-form SEO article for Lonage.
 - H2/H3 sections
 - FAQ
 - Soft CTA
+- ## Template Rule
+Always follow the structure inside: templates/master-article-template.md
